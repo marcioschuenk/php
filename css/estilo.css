@@ -1,0 +1,110 @@
+*{
+	font-family: verdana;
+}
+@media screen and (min-width: 768px){
+	.superior{
+		background-color: #37b;
+		color: #fff;
+		background-image: url("../imagem/fundo.png");
+		background-size: 100% 100%;	
+		height: 200px;
+	}	
+}
+@media screen and (max-width: 768px){
+	.superior{
+		background-color: #37b;
+		color: #fff;
+		background-image: url("../imagem/fundo.png");
+		background-size: 100% 100%;	
+		height: 80px;
+	}	
+	.centro{
+		text-align: center;
+		margin: 0 auto;
+	}
+}
+
+.nota{
+	color: #88f;
+	font-size: 25px;
+}
+.status{
+	background-color: #f55;
+	color:#fff;
+}
+.ftperfil{
+	max-width:100%;
+	width:400px;
+	max-height: 300px;
+}
+.imgperfil{
+	text-align: center;
+}
+.ftperfil2{
+	max-width:100%;
+	width:150px;
+	height: 100px;
+	max-height: 100%;
+}
+.cracha{
+	width:300px;
+	border:solid #000 1px;
+	margin:0 auto;
+	
+}
+
+/*
+.banner{
+	padding: 5px;
+}
+.bannerinicio{
+	width:100%;
+	text-align: center;
+}
+.praga{
+	width: 200px;	
+	height: 200px;
+	border: solid 5px #000;
+}
+figure{
+	margin: 0 auto;
+	text-align: center;
+}
+.baixo{
+	text-align: center;
+}
+
+.textopraga{
+	text-align: justify;
+	padding: 15px;
+	background-color: #dde;
+
+}
+.logo{
+	height: 100px;
+	
+}
+.tabela{
+	margin:0 auto;
+	width: 200px;
+}
+.espaco{
+	height: 50px;
+}
+.formulario{
+	width:400px;
+	margin: 0 auto;
+}
+
+.panel-body2 .btn2:not(.btn-block) { width:100%;margin-bottom:10px;  border-radius: 15px; }
+
+.panel2 {
+	border: 0px solid;
+	
+	
+}
+
+.textopraga2{
+	margin:10px;
+}
+*/
